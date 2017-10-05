@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: be4f7a2fb5218f9429a8d73ba31bedf8
+timeCreated: 1500675942
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {fileID: 1297956272802946, guid: 20e6ae59d4affc64d96e0ca379b7680d,
+      type: 2}
+  - redNorm: {fileID: 21300000, guid: 7eccba03b1dc9b84faf96b79db474165, type: 3}
+  - blueNorm: {fileID: 21300000, guid: fb24e264df97a1c47960938cd13d174b, type: 3}
+  - greenNorm: {fileID: 21300000, guid: 10a0156503a90ab4f8497c3c3c8f0023, type: 3}
+  - yellowNorm: {fileID: 21300000, guid: 0c14587e3361f79428399deeda0b2cb5, type: 3}
+  - orangeNorm: {fileID: 21300000, guid: e7acce4784b50674aa34cba1789c1693, type: 3}
+  - purpleNorm: {fileID: 21300000, guid: 764702ac7b960f243bcaa7a96019b22a, type: 3}
+  - redSwirl: {fileID: 21300000, guid: 4d790c2722059ca4bb27d6d7b887387d, type: 3}
+  - blueSwirl: {fileID: 21300000, guid: accdb6a2acc9e3f4b9a8f1561c9487c7, type: 3}
+  - greenSwirl: {fileID: 21300000, guid: d7a399e7dead05d48bf0855cfb5d2262, type: 3}
+  - yellowSwirl: {fileID: 21300000, guid: 4961cdcb0169cdc41aa9de2ee9cd2670, type: 3}
+  - orangeSwirl: {fileID: 21300000, guid: 70443e55411fa7749a7f20024137193a, type: 3}
+  - purpleSwirl: {fileID: 21300000, guid: 74a44c535655cfa41a7bf48b81dc2c65, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
