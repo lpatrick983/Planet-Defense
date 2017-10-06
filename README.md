@@ -3,7 +3,7 @@
 ## About:
 - Original 2D space-shooter game (created via **Unity Engine**)
 - Link: **https://lpatrick983.itch.io/planet-defense**
-- Technical game development by: **Patrick Liu**
+- Programming/Technical dev by: **Patrick Liu**
 - Background artwork by: **Edward Liu**
 
 ## Project Details:
